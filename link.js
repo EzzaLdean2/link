@@ -12,7 +12,7 @@ client.on('ready', () => {
 
   client.user.setStatus("Online")
 
-    client.user.setActivity(" Broadcast Server",{type: 'WATCHING'})
+    client.user.setActivity(" United Shop",{type: 'WATCHING'})
 
 });
 
@@ -190,7 +190,7 @@ client.on('message',message =>{
   
 client.on('message', message => {
 
-if (message.content.startsWith('-inv-info')) {
+if (message.content.startsWith('#inv-info')) {
 
 let oi = message.mentions.users.first() ? message.mentions.users.first().id : message.author.id ; 
 
