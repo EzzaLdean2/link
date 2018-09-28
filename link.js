@@ -12,14 +12,14 @@ client.on('ready', () => {
 
   client.user.setStatus("Online")
 
-    client.user.setActivity(" United Shop",{type: 'WATCHING'})
+    client.user.setActivity(" Prestige Shop",{type: 'WATCHING'})
 
 });
 
             var prefix = "#" ;
             
            
-            const adminprefix = "#";//by ,$ ReBeL ء , ??#4777 'CODES SERVER'
+            const adminprefix = "##";//by ,$ ReBeL ء , ??#4777 'CODES SERVER'
 
 const devs = ['470500980342128650'];//by ,$ ReBeL ء , ??#4777 'CODES SERVER'
 
